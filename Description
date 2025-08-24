@@ -1,47 +1,47 @@
 # 🍎 Fruit Grading and Classification
 
-This project focuses on the **automated grading and classification of fruits** using advanced **machine learning** and **image processing** techniques.  
+This project focuses on the automated grading and classification of fruits using advanced machine learning and image processing techniques.  
 It aims to streamline quality control processes in the agricultural and food industries by accurately assessing fruit quality based on predefined standards.
 
 ---
 
 ## ✨ Key Features
-- 🖼️ **Image Preprocessing**: Resizing, normalization, and noise removal for clean inputs.  
-- 🔎 **Feature Extraction**: Color, shape, texture, and size features for classification.  
-- 🤖 **Classification Models**: ML algorithms (SVM, Random Forest, CNNs) for accurate fruit identification.  
-- 🏷️ **Grading Mechanism**: Categorization of fruits into grades (A, B, C) based on quality, defects, and size.  
-- 📊 **Interactive Visualizations**: Clear visual outputs and evaluation metrics.  
-- ⚡ **Scalability**: Capable of handling large fruit image datasets for industrial-scale deployment.  
+- 🖼️ Image Preprocessing: Resizing, normalization, and noise removal for clean inputs.  
+- 🔎 Feature Extraction: Color, shape, texture, and size features for classification.  
+- 🤖 Classification Models: ML algorithms (SVM, Random Forest, CNNs) for accurate fruit identification.  
+- 🏷️ Grading Mechanism: Categorization of fruits into grades (A, B, C) based on quality, defects, and size.  
+- 📊 Interactive Visualizations: Clear visual outputs and evaluation metrics.  
+- ⚡ Scalability: Capable of handling large fruit image datasets for industrial-scale deployment.  
 
 ---
 
 ## 🎯 Objectives
-- ✅ **Automate Quality Control**: Reduce manual effort and human bias in fruit grading.  
-- ✅ **Enhance Accuracy**: Use robust ML algorithms to improve classification precision.  
-- ✅ **Support Industry Standards**: Align with grading benchmarks in agriculture & food supply chains.  
+- ✅ Automate Quality Control: Reduce manual effort and human bias in fruit grading.  
+- ✅ Enhance Accuracy: Use robust ML algorithms to improve classification precision.  
+- ✅ Support Industry Standards: Align with grading benchmarks in agriculture & food supply chains.  
 
 ---
 
 ## 🛠️ Technologies Used
-- **Programming Language:** Python  
-- **Libraries & Frameworks:** OpenCV, Scikit-learn, TensorFlow/Keras, NumPy, Pandas  
-- **Visualization Tools:** Matplotlib, Seaborn  
+- Programming Language: Python  
+- Libraries & Frameworks: OpenCV, Scikit-learn, TensorFlow/Keras, NumPy, Pandas  
+- Visualization Tools: Matplotlib, Seaborn  
 
 ---
 
 ## 🔄 Workflow
-1. **Dataset Preparation** – Collection & preprocessing of fruit images.  
-2. **Feature Engineering** – Extraction of features (color, texture, shape, size).  
-3. **Model Training & Evaluation** – Train ML models and evaluate with metrics like accuracy, precision, recall.  
-4. **Grading System** – Assign fruit grades based on classification results.  
-5. **Deployment** – Scalable solution for real-time fruit grading in industry.  
+1. Dataset Preparation – Collection & preprocessing of fruit images.  
+2. Feature Engineering – Extraction of features (color, texture, shape, size).  
+3. Model Training & Evaluation – Train ML models and evaluate with metrics like accuracy, precision, recall.  
+4. Grading System – Assign fruit grades based on classification results.  
+5. Deployment – Scalable solution for real-time fruit grading in industry.  
 
 ---
 
 ## 🚀 Use Cases
 - ✅ Automating fruit sorting processes in packaging units.  
 - ✅ AI-driven quality control for agriculture supply chains.  
-- ✅ Supporting decision-making in **food export/import industries**.  
+- ✅ Supporting decision-making in food export/import industries.  
 
 ---
 
@@ -52,22 +52,22 @@ It aims to streamline quality control processes in the agricultural and food ind
 | Random Forest    | 88%      | 86%       | 85%    |
 | CNN              | 94%      | 92%       | 93%    |
 
-*(Add your actual results here once available)*  
+(Add your actual results here once available)  
 
 ---
 
 ## 📌 Future Enhancements
-- 🔹 Expand dataset with more fruit types.  
-- 🔹 Incorporate real-time grading via webcam integration.  
-- 🔹 Deploy as a web/mobile app for farmers & distributors.  
+- Expand dataset with more fruit types.  
+- Incorporate real-time grading via webcam integration.  
+- Deploy as a web/mobile app for farmers & distributors.  
 
 ---
 
 ## 👩‍💻 Author
-**Girija Raut** – *AI/ML Enthusiast*  
+Girija Raut – AI/ML Enthusiast  
 - 🌐 [GitHub Profile](https://github.com/Girijaraut)  
 - 💼 Add LinkedIn link here  
 
 ---
 
-✨ *A girly techie on a mission to make AI smarter & friendlier!* 🌸  
+✨ A girly techie on a mission to make AI smarter & friendlier! 🌸  
